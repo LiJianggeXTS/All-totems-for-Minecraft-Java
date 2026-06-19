@@ -8,3 +8,4 @@ For commercial use, please obtain the author's permission.
 This texture allows you to change it to your own Minecraft skin. 
 You can replace the Minecraft skin textures in the "assets/Minecraft/texture/item/*" directory with your own skin textures, 
 but do not change the file names, otherwise it will not take effect and may cause texture errors.
+Li_Jiangge_'s Pack will be the main package. Please replace the images in the package yourself; the image names will remain unchanged. This will be the last modification, and subsequent packages will follow this rule
